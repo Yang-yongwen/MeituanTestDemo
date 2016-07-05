@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MeituanTestDemo</string>
+    <string name="create_news">创建新闻</string>
+    <string name="news_list">新闻列表</string>
+    <string name="news_title">新闻标题：</string>
+    <string name="input_news_content">请输入正文</string>
+    <string name="publish_news_for_free">免费发布此新闻</string>
+    <string name="news_value">新闻价值：</string>
+    <string name="publish_news">发布新闻</string>
+    <string name="news_title_input_tip">请输入新闻标题</string>
+    <string name="news_value_tip">阅读新闻需要的金币数量</string>
+    <string name="news_value_input_tip">请输入阅读新闻需要的金币数量</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="try_delete_news">删除此条新闻？</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+
+    <string name="title_for_test">这是一个测试标题：浅谈测试驱动开发</string>
+    <string name="content_for_test">这是一段测试内容：一个高效的软件开发过程对软件开发人员来说是至关重要的，决定着开发是痛苦的挣扎，还是不断进步的喜悦。国人对软件蓝领的不屑，对繁琐冗长的传统开发过程的不耐，使大多数开发人员无所适从。最近兴起的一些软件开发过程相关的技术，提供一些比较高效、实用的软件过程开发方法。其中比较基础、关键的一个技术就是测试驱动开发（Test-Driven Development）。虽然TDD光大于极限编程，但测试驱动开发完全可以单独应用。下面就从开发人员使用的角度进行介绍，使开发人员用最少的代价尽快理解、掌握、应用这种技术。下面分优势，原理，过程，原则，测试技术，Tips等方面进行讨论。</string>
+    <string name="publish_time_for_test">0</string>
+    <string name="value_for_test">2.33</string>
+    <string name="value_more_than_two_digit">2.333</string>
+
+    <string name="validate_news_failed">新闻格式错误，请检查并重新提交。</string>
+
+
+    <string name="publish_success">发布成功</string>
+    <string name="publish_fail_for_network">发布失败(网络异常)，请稍后重试</string>
+    <string name="fetch_fail_for_network">获取新闻列表失败（网络异常）</string>
+    <string name="no_network">无网络连接，请稍后重试</string>
+
+    <string name="reload">重新加载</string>
+
+
+</resources>

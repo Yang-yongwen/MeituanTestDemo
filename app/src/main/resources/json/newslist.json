@@ -1,0 +1,22 @@
+[
+  {
+    "publish_time":1467704802697,
+    "title":"Android中使用Roboletric",
+    "content":"在Android开发中，测试是一个很少被提及的话题。在早期，Android并没有一个很好的测试框架，你也很难找到一个测试全面的优秀开源项目。近些年，随着Android社区的成熟，出现了注入Robotium、Robolectric等的优秀测试框架。",
+    "value":20.1
+  }
+  ,
+  {
+    "publish_time":1457704802697,
+    "title":"单元测试利器JUnit4",
+    "content":"本文介绍了如何使用JUnit4提供的各种功能开展有效的单元测试，并通过一个实例演示了如何使用Ant执行自动化的单元测试。本文假设读者对Android studio下开发Android app有一定的经验，并了解java的注解特性。",
+    "value":2.33
+  }
+  ,
+  {
+    "publish_time":1460704802697,
+    "title":"Mockito入门",
+    "content":"Mockito是一个针对Java的mocking框架，它与EasyMock和jMock很相似，但是通过在执行后校验什么已经被调用，它消除了对期望行为的需要，其他的mocking库需要你在执行前记录期望行为，而这导致了丑陋的初始化代码。",
+    "value":0
+  }
+]
